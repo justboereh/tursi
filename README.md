@@ -1,4 +1,4 @@
-# packageName
+# tursi
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
@@ -6,34 +6,24 @@
 <!-- [![bundle][bundle-src]][bundle-href] -->
 <!-- [![Codecov][codecov-src]][codecov-href] -->
 
-This is my package description.
+A blazing normal alternative to the Turso CLI. 
 
 ## Usage
 
-Install package:
+Install the CLI:
 
 ```sh
 # npm
-npm install packageName
+npm install -G tursi
 
 # yarn
-yarn add packageName
+yarn add -G tursi
 
 # pnpm
-pnpm install packageName
+pnpm install -G tursi
 
 # bun
-bun install packageName
-```
-
-Import:
-
-```js
-// ESM
-import {} from "packageName";
-
-// CommonJS
-const {} = require("packageName");
+bun install -G tursi
 ```
 
 ## Development
@@ -52,13 +42,13 @@ Published under [MIT License](./LICENSE).
 
 <!-- Badges -->
 
-[npm-version-src]: https://img.shields.io/npm/v/packageName?style=flat&colorA=18181B&colorB=F0DB4F
-[npm-version-href]: https://npmjs.com/package/packageName
-[npm-downloads-src]: https://img.shields.io/npm/dm/packageName?style=flat&colorA=18181B&colorB=F0DB4F
-[npm-downloads-href]: https://npmjs.com/package/packageName
+[npm-version-src]: https://img.shields.io/npm/v/tursi?style=flat&colorA=18181B&colorB=F0DB4F
+[npm-version-href]: https://npmjs.com/package/tursi
+[npm-downloads-src]: https://img.shields.io/npm/dm/tursi?style=flat&colorA=18181B&colorB=F0DB4F
+[npm-downloads-href]: https://npmjs.com/package/tursi
 
-<!-- [codecov-src]: https://img.shields.io/codecov/c/gh/unjs/packageName/main?style=flat&colorA=18181B&colorB=F0DB4F
-[codecov-href]: https://codecov.io/gh/unjs/packageName
+<!-- [codecov-src]: https://img.shields.io/codecov/c/gh/justboereh/tursi/main?style=flat&colorA=18181B&colorB=F0DB4F
+[codecov-href]: https://codecov.io/gh/justboereh/tursi
 
-[bundle-src]: https://img.shields.io/bundlephobia/minzip/packageName?style=flat&colorA=18181B&colorB=F0DB4F
-[bundle-href]: https://bundlephobia.com/result?p=packageName -->
+[bundle-src]: https://img.shields.io/bundlephobia/minzip/tursi?style=flat&colorA=18181B&colorB=F0DB4F
+[bundle-href]: https://bundlephobia.com/result?p=tursi -->
